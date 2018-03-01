@@ -2,7 +2,7 @@
 
 ## Build
 ```
-ocker build -t tsunokawa/dhcp-configtest .
+docker build -t tsunokawa/dhcp-configtest .
 ```
 
 ## Run
